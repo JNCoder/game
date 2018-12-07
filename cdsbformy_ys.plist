@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://getapp.cdsb.com/ios/mobileVerify.ipa</string>
+                        <string>https://mp.doctorofsc.cn/appdownload/ScmyApp_ys.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -19,7 +19,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://getapp.cdsb.com/ios/icon@2x.png</string>
+                        <string>https://mp.doctorofsc.cn/appdownload/icon_ys@2x.png</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -27,7 +27,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://getapp.cdsb.com/ios/icon@2x.png</string>
+                        <string>https://mp.doctorofsc.cn/appdownload/icon_ys@2x.png</string>
                     </dict>
                 </array>
                 <key>metadata</key>
